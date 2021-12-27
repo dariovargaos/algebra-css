@@ -1,32 +1,16 @@
+body{
+    
+    background: url(../images/fire.png) center 30%/18% no-repeat fixed,
+    url(../images/pattern.png),
+    url(../images/blossom.jpg) center center/cover no-repeat fixed;
+}
+
 h1{
-    font-family: 'Saira Stencil One', cursive;
-    color: orange;
+    background-color: grey;
+    color: white;
     text-align: center;
-    text-shadow: 2px 2px 2px black;
-}
-
-/*font-family: 'Dancing Script', cursive;
-font-family: 'Courier New', Courier, monospace; */
-
-h2{
-    font-family: 'Dancing Script', cursive;
-    text-decoration: underline wavy red;
-    color: green;
-}
-
-h3{
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: 700;
-    text-transform: uppercase;
-}
-
-h4{
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: right;
-    font-style: italic;
 }
 
 p{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 500;
+    color: white;
 }

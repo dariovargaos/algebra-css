@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+p{
+    background-color: lightgray;
+    display: inline;
+    border: 2px black solid;
+    
+}
+
+.drugi{
+
+    margin-top: 15px;
+}

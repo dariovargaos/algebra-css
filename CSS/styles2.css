@@ -1,0 +1,21 @@
+.prvi{
+    background-color: lightgrey;
+    border: 5px gray solid;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.drugi{
+    background:linear-gradient(to right, red 50%, lightgrey 0%);
+    border: none;
+    margin: 0px;
+    padding: 50px;
+}
+
+.treci{
+    background:linear-gradient(to right, lightgrey 50%, blue 50%);
+    border: none;
+    margin: 0px;
+    padding: 50px;
+}

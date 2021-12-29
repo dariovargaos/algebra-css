@@ -1,16 +1,29 @@
-body{
-    
-    background: url(../images/fire.png) center 30%/18% no-repeat fixed,
-    url(../images/pattern.png),
-    url(../images/blossom.jpg) center/cover no-repeat fixed;
+.prvi{
+    background-color: gray;
+    border:5px black solid;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 20px;
 }
 
-h1{
-    background-color: grey;
-    color: white;
+.drugi{
+    background-color: gray;
+    border: 5px black dashed;
+    margin-left: 80%;
     text-align: center;
+    padding: 30px;
 }
 
-p{
-    color: white;
+.treci{
+    background-color: gray;
+    border-right: 5px black double;
+    margin-right: 80%;
+}
+
+.cetvrti{
+    background-color: gray;
+    border-top: 5px black dashed;
+    border-bottom: 5px black dotted;
+    margin-left: 15%;
+    margin-right: 15%;
 }
